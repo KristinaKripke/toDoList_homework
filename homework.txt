@@ -17,8 +17,13 @@
     If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
     Trying to close the list marks all the items as completed.
     Clear only works on selected/deleted items.
-    After all items are deleted or manyally removed 'What need's to be added?' doesn't load unless the page if reloaded.
+    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
     After task is added three spaces are left in the entry field.
+    Poor readability:  1. 'What need's to be done?' (no contrast with background)
+                       2. 'Double-click to edit todo' (font-size too small)
+    Spelling mistakes: 1. need's --> needs
+                       2. toodo --> todo
+
 
 **MOZILLA**
 
@@ -40,8 +45,12 @@
     If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
     Trying to close the list marks all the items as completed.
     Clear only works on selected/deleted items.
-    After all items are deleted or manyally removed 'What need's to be added?' doesn't load unless the page if reloaded.
+    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
     After task is added three spaces are left in the entry field.
+     Poor readability: 1. 'What need's to be done?' (no contrast with background)
+                       2. 'Double-click to edit todo' (font-size too small)
+    Spelling mistakes: 1. need's --> needs
+                       2. toodo --> todo
 
 **OPERA**
 
@@ -62,8 +71,12 @@
     If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
     Trying to close the list marks all the items as completed.
     Clear only works on selected/deleted items.
-    After all items are deleted or manyally removed 'What need's to be added?' doesn't load unless the page if reloaded.
+    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
     After task is added three spaces are left in the entry field.
+     Poor readability: 1. 'What need's to be done?' (no contrast with background)
+                       2. 'Double-click to edit todo' (font-size too small)
+    Spelling mistakes: 1. need's --> needs
+                       2. toodo --> todo
 
 **SAFARI**
 
@@ -81,8 +94,12 @@
     If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
     Trying to close the list marks all the items as completed.
     Clear only works on selected/deleted items.
-    After all items are deleted or manyally removed 'What need's to be added?' doesn't load unless the page if reloaded.
+    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
     After task is added three spaces are left in the entry field.
+     Poor readability: 1. 'What need's to be done?' (no contrast with background)
+                       2. 'Double-click to edit todo' (font-size too small)
+    Spelling mistakes: 1. need's --> needs
+                       2. toodo --> todo
 
 
 **EDGE**
@@ -112,5 +129,9 @@
     If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
     Trying to close the list marks all the items as completed.
     Clear only works on selected/deleted items.
-    After all items are deleted or manyally removed 'What need's to be added?' doesn't load unless the page if reloaded.
+    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
     After task is added three spaces are left in the entry field.
+     Poor readability: 1. 'What need's to be done?' (no contrast with background)
+                       2. 'Double-click to edit todo' (font-size too small)
+    Spelling mistakes: 1. need's --> needs
+                       2. toodo --> todo
