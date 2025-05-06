@@ -1,4 +1,4 @@
-**CHROME**
+**CHROME** **OPERA** **MOZILLA** **SAFARI** **EDGE**
 
 ## 2 errors in console on open: 
     1. GET https://todolist.james.am/learn.json 404 (Not Found)
@@ -25,88 +25,17 @@
                        2. toodo --> todo
 
 
-**MOZILLA**
+Additional issues: **MOZILLA** 
 
-## 3 errors in console on open:
-    1. XHRGET https://todolist.james.am/learn.json [HTTP/3 404  34ms]
-    2. XHRGET https://todolist.james.am/api [HTTP/3 404  35ms]
-    3. GET https://todolist.james.am/favicon.ico [HTTP/3 404  0ms]
+## Error in console on open:
+    
+    1. GET https://todolist.james.am/favicon.ico [HTTP/3 404  0ms]
 
 ## 1 warning in console on open:
     * Found a sectioned h1 element with no specified font-size or margin properties.
 
-## Issues: 
-    Inconsistent character case (All - active - Completed)
-    Item count starts on 0. Second item added becomes '1 item left'.
-    Item count is inaccurate, doesn't update on clear.
-    Item count is not option specific, the same on all tabs.
-    Down arrow to select items needs to be double clicked to disselect items.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'All' tab.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
-    Trying to close the list marks all the items as completed.
-    Clear only works on selected/deleted items.
-    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
-    After task is added three spaces are left in the entry field.
-     Poor readability: 1. 'What need's to be done?' (no contrast with background)
-                       2. 'Double-click to edit todo' (font-size too small)
-    Spelling mistakes: 1. need's --> needs
-                       2. toodo --> todo
 
-**OPERA**
-
-2 errors in console on open:
-##   1. GET https://todolist.james.am/learn.json 404 (Not Found)
-     2. GET https://todolist.james.am/api 404 (Not Found)
-
-## 1 warning in console on open:
-    * A form field element should have an id or name attribute
-
-    ## Issues: 
-    Inconsistent character case (All - active - Completed)
-    Item count starts on 0. Second item added becomes '1 item left'.
-    Item count is inaccurate, doesn't update on clear.
-    Item count is not option specific, the same on all tabs.
-    Down arrow to select items needs to be double clicked to disselect items.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'All' tab.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
-    Trying to close the list marks all the items as completed.
-    Clear only works on selected/deleted items.
-    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
-    After task is added three spaces are left in the entry field.
-     Poor readability: 1. 'What need's to be done?' (no contrast with background)
-                       2. 'Double-click to edit todo' (font-size too small)
-    Spelling mistakes: 1. need's --> needs
-                       2. toodo --> todo
-
-**SAFARI**
-
-## 2 errors in console on open:
-    1. Failed to load resource: the server responded with a status of 404 () https://todolist.james.am/learn.json
-    2. Failed to load resource: the server responded with a status of 404 () https://todolist.james.am/api
-
-## Issues: 
-    Inconsistent character case (All - active - Completed)
-    Item count starts on 0. Second item added becomes '1 item left'.
-    Item count is inaccurate, doesn't update on clear.
-    Item count is not option specific, the same on all tabs.
-    Down arrow to select items needs to be double clicked to disselect items.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'All' tab.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
-    Trying to close the list marks all the items as completed.
-    Clear only works on selected/deleted items.
-    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
-    After task is added three spaces are left in the entry field.
-     Poor readability: 1. 'What need's to be done?' (no contrast with background)
-                       2. 'Double-click to edit todo' (font-size too small)
-    Spelling mistakes: 1. need's --> needs
-                       2. toodo --> todo
-
-
-**EDGE**
-
-## 2 errors in console on open:
-    1. GET https://todolist.james.am/learn.json 404 (Not Found)
-    2. GET https://todolist.james.am/api 404 (Not Found)
+Additional issues: **EDGE**
 
 ## 2 errors in consoleon open:
     * A 'viewport' meta element was not specified.
@@ -118,20 +47,3 @@
     * The target should not be cached or have a 'cache-control' header with 'max-age=180' or less.
     * The 'Expires' header should not be used, 'Cache-Control' should be preferred.
     * A form field element should have an id or name attribute
-
-## Issues: 
-    Inconsistent character case (All - active - Completed)
-    Item count starts on 0. Second item added becomes '1 item left'.
-    Item count is inaccurate, doesn't update on clear.
-    Item count is not option specific, the same on all tabs.
-    Down arrow to select items needs to be double clicked to disselect items.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'All' tab.
-    If there's only one item on the list and it's marked as completed the item count is negative (-1 items left) in the 'active' tab.
-    Trying to close the list marks all the items as completed.
-    Clear only works on selected/deleted items.
-    After all items are deleted or manually removed 'What need's to be added?' doesn't load unless the page if reloaded.
-    After task is added three spaces are left in the entry field.
-     Poor readability: 1. 'What need's to be done?' (no contrast with background)
-                       2. 'Double-click to edit todo' (font-size too small)
-    Spelling mistakes: 1. need's --> needs
-                       2. toodo --> todo
